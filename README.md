@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/shontzu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 <img src="https://wakatime.com/badge/user/59a6ed31-da11-42f9-b270-6ab97f335d44.svg" >
 <img src="https://komarev.com/ghpvc/?username=shontzu-deriv&color=blue&label=profile+visits" >
-<img src="https://img.shields.io/github/followers/yuuchin?label=github+followers&logo=github&color=blue&style=plastic">
+<img src="https://img.shields.io/github/followers/shontzu-deriv?label=github+followers&logo=github&color=blue&style=plastic">
 
 ![](https://github-readme-stats.vercel.app/api?username=shontzu-deriv&show_icons=true&theme=synthwave&rank_icon=github)
 
