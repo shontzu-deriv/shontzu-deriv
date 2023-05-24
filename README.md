@@ -5,8 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shontzu-deriv&show_icons=true&theme=synthwave&rank_icon=github)
 
-<img src="https://wakatime.com/share/@yuuchin/ce7c889b-cdcc-4507-bfb8-b065db59eacd.svg" alt="languages over all time" width=55% align=left/>
-  
+<img src="https://wakatime.com/share/@yuuchin/0f71c0e0-1b56-4c63-b618-e20c8bf41438.svg" alt="languages over all time" width=60% >  
   
 **Multimedia** | **Front End** | **Back End** | **Database** | **App** | **Relevant** | **Hosting/CMS**
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- |-------------
