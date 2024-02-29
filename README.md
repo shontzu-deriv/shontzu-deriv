@@ -3,6 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=shontzu-deriv&color=blue&label=profile+visits" >
 <img src="https://img.shields.io/github/followers/shontzu-deriv?label=github+followers&logo=github&color=blue&style=plastic">
 
+<!-- [![wakatime](https://wakatime.com/badge/github/hirad-deriv/deriv-app.svg)](https://wakatime.com/badge/github/hirad-deriv/deriv-app) -->
+
 ![](https://github-readme-stats.vercel.app/api?username=shontzu-deriv&show_icons=true&theme=synthwave&rank_icon=github)
 
 <img src="https://wakatime.com/share/@yuuchin/0f71c0e0-1b56-4c63-b618-e20c8bf41438.svg" alt="languages over all time" width=60% >  
